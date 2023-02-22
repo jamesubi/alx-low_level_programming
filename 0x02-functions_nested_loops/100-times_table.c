@@ -1,3 +1,4 @@
+#include "main.h"
 /**
 *print_times_table - n times table.
 *@n: the number defines the table.
